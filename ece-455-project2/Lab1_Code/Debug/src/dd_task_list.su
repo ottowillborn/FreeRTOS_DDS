@@ -1,0 +1,6 @@
+dd_task_list.c:5:6:dd_list_init	16	static
+dd_task_list.c:10:6:dd_list_insert_sort	40	static
+dd_task_list.c:58:6:dd_list_remove	24	static
+dd_task_list.c:80:9:dd_list_peek_head	16	static
+dd_task_list.c:86:9:dd_list_find	24	static
+dd_task_list.c:97:10:dd_count_list	24	static

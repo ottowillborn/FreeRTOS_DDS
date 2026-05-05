@@ -1,0 +1,12 @@
+Clocks on
+Added queues
+Added tasks
+Added timers
+released Task 1 at 0 ms
+released Task 2 at 0 ms
+released Task 3 at 1 ms
+Task 1 complete ontime at 96 ms
+Task 2 complete ontime at 246 ms
+released Task 1 at 250 ms
+Task 1 complete ontime at 345 ms
+released Task 2 at 500 ms
